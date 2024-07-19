@@ -1,16 +1,14 @@
-## Hi there 👋
+# Salut à tous 👋, je suis Aouane Soufiane
 
-<!--
-**Aouane-S/Aouane-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Bienvenue dans mon espace GitHub ! Je suis passionné par l'exploration du monde numérique .
 
-Here are some ideas to get you started:
+### À propos de moi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je suis étudiant en Infrastructure Numérique passionné par l'exploration des domaines de la technologie, avec un vif intérêt pour :
+
+- Réseaux informatiques 🌐
+- Sécurité informatique 🛡️
+- Administration système 💻
+
+### Connectons-nous !
+🔗 [LinkedIn](https://www.linkedin.com)
