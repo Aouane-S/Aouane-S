@@ -4,7 +4,7 @@
 
 ### À propos de moi
 
-Je suis étudiant en Infrastructure Numérique passionné par l'exploration des domaines de la technologie, avec un vif intérêt pour :
+Je suis spécialisé en Infrastructure Digitale passionné par l'exploration des domaines de la technologie, avec un vif intérêt pour :
 
 - Réseaux informatiques 🌐
 - Sécurité informatique 🛡️
